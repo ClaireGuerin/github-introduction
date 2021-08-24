@@ -1,8 +1,6 @@
 # some comment
-# another comment
-
-install.packages("tidyverse")
-
 library(tidyverse)
+
+# changed line
 
 myPlot <- ggplot()
