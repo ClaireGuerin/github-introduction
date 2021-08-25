@@ -3,13 +3,14 @@
 ## Description
 *In this section, give details on what your code / program does, what you and other people can use it for, maybe some references or links.*
 
-Congratulations! You are now a GitHub user and know how to use version control on your code!
+Congratulations! :clap: You are now a GitHub :octocat: user and know how to use version control for your code!
 This repository was created as part of an introductory course to git and GitHub. It contains:
 - the current README as an example of what kind of information to put in a README
 - a LICENSE
 - a .gitignore file
 - the presentation material, with key elements to get started on git and GitHub 
 - a mock R code with absolutely nothing useful in it (`mysimpleprogram.R`).
+- an image folder (img) with screenshots used in this README
 
 ### Useful Links
 - [Command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
