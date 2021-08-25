@@ -21,10 +21,17 @@ This repository was created as part of an introductory course to git and GitHub.
 ## Visuals
 *Here you can include some graphs / visual output or snapshots of your program if you have any.*
 
+| Essential git commands | Git Master Workflow |
+|:----------------------:|:-------------------:|
+| ![alt text](https://github.com/ClaireGuerin/github-introduction/blob/main/img/git-commands.png "Commands") | ![alt text](https://github.com/ClaireGuerin/github-introduction/blob/main/img/git-masterflow.png "workflow") |
+
 ## Installation
 *How to install this program? List all the necessary steps for a novice to be able to use your program on their own machine.*
 
 If you want to keep this repository as a reference to go back to when you have a **Git Existential Crisis**, you can star this repository to find it back more easily. Otherwise, if you want to play with the mock R program or have the PDF presentation locally, simply download the repository and place it wherever you want on your machine.
+
+**Click "Star" on the top right side of the repository homepage:**
+![alt text](https://github.com/ClaireGuerin/github-introduction/blob/main/img/star.png "Starring")
 
 ### Requirements
 *Do you need to install any third-party software and/or packages?*
