@@ -8,7 +8,7 @@ This repository was created as part of an introductory course to git and GitHub.
 - the current README as an example of what kind of information to put in a README
 - a LICENSE
 - a .gitignore file
-- the [presentation material](https://github.com/ClaireGuerin/github-introduction/blob/main/'Introduction to Github.pdf'), with key elements to get started on git and GitHub 
+- the presentation material (`Introduction to Github.pdf`), with key elements to get started on git and GitHub 
 - a cheatsheet for a useful [workflow](https://github.com/ClaireGuerin/github-introduction/blob/main/gitmasterflow.pdf)
 - a mock R code with absolutely nothing useful in it (`mysimpleprogram.R`).
 - an image folder (img) with screenshots used in this README
