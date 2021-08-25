@@ -11,13 +11,20 @@ This repository was created as part of an introductory course to git and GitHub.
 - the presentation material, with key elements to get started on git and GitHub 
 - a mock R code with absolutely nothing useful in it (`mysimpleprogram.R`).
 
+### Useful Links
+- [Command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [How to make a README](https://www.makeareadme.com/)
+- [How to choose a LICENSE](https://choosealicense.com/)
+- [How to use tags and create program releases](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+
 ## Visuals
 *Here you can include some graphs / visual output or snapshots of your program if you have any.*
 
 ## Installation
 *How to install this program? List all the necessary steps for a novice to be able to use your program on their own machine.*
 
-Simply download the repository and place it wherever you want on your machine.
+If you want to keep this repository as a reference to go back to when you have a **Git Existential Crisis**, you can star this repository to find it back more easily. Otherwise, if you want to play with the mock R program or have the PDF presentation locally, simply download the repository and place it wherever you want on your machine.
 
 ### Requirements
 *Do you need to install any third-party software and/or packages?*
