@@ -5,3 +5,5 @@ library(tidyverse)
 
 myPlot <- ggplot()
 # end of file
+
+# yet another useless comment
