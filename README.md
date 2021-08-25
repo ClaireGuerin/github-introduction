@@ -33,4 +33,4 @@ Any questions on Git and Github? Email me at <c.j.m.guerin@rug.nl>, or [raise an
 Contributions to this introduction to Github are welcome, as well as suggestions. Fork this repository and [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ## Licence
-[GNU General Public License](https://github.com/ClaireGuerin/github-introduction/LICENSE)
+[GNU General Public License](https://github.com/ClaireGuerin/github-introduction/blob/main/LICENSE)
