@@ -44,7 +44,7 @@ The code was written with R 3.6.3, under Ubuntu (20.04.2 LTS), but should work w
 *Give information on how to use your program, some examples if applicable.*
 
 ### R code
-From the command line: `R mycode.R`
+From the command line: `Rscript mycode.R`
 From R or RStudio: source the code.
 
 ### Presentation
