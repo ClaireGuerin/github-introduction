@@ -24,6 +24,8 @@ Access to the videos is restricted for privacy reasons. If you have been granted
 - [How to make a README](https://www.makeareadme.com/)
 - [How to choose a LICENSE](https://choosealicense.com/)
 - [How to use tags and create program releases](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [Working with branches - 1](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Working with branches - 2](https://guides.github.com/introduction/flow/)
 
 ## Visuals
 *Here you can include some graphs / visual output or snapshots of your program if you have any.*
