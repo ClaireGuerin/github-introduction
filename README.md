@@ -49,10 +49,15 @@ From the command line (recommended):
 - `Rscript quote.R` will print a random quote in the terminal window.
 - `Rscript githelp.R` will print a small cheatsheet of essential git commands in the terminal window.
 
-From R or RStudio: source the code.
+From R or RStudio: source the code. This can be useful if you are working in RStudio and want to version control changes to your program, but don't remember how to use git.
 
 ### Presentation
 Open the slideshow in your preferred PDF reader or in the browser.
+
+## Roadmap
+*Next steps for your program?*
+
+Make a small R package out of the git cheatsheet `githelp.R`.
 
 ## Support
 *Where can people go if they need help?*
