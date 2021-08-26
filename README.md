@@ -10,7 +10,8 @@ This repository was created as part of an introductory course to git and GitHub.
 - a .gitignore file
 - the presentation material (`Introduction to Github.pdf`), with key elements to get started on git and GitHub 
 - a cheatsheet for a useful [workflow](https://github.com/ClaireGuerin/github-introduction/blob/main/gitmasterflow.pdf)
-- a small R code that will print a random quote on your screen (`mysimpleprogram.R`).
+- a small R script that will print a random quote on your screen (`quote.R`).
+- a small R script that will print essential git commands on your screen (`githelp.R`)
 - an image folder (img) with screenshots used in this README
 
 ### Useful Links
@@ -44,7 +45,10 @@ The code was written with R 3.6.3, under Ubuntu (20.04.2 LTS), but should work w
 *Give information on how to use your program, some examples if applicable.*
 
 ### R code
-From the command line: `Rscript mycode.R`
+From the command line (recommended): 
+- `Rscript quote.R` will print a random quote in the terminal window.
+- `Rscript githelp.R` will print a small cheatsheet of essential git commands in the terminal window.
+
 From R or RStudio: source the code.
 
 ### Presentation
