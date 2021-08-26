@@ -9,11 +9,12 @@ This repository was created as part of an introductory course to git and GitHub.
 - the current README as an example of what kind of information to put in a README
 - a LICENSE
 - a .gitignore file
-- the presentation material (`Introduction to Github.pdf`), with key elements to get started on git and GitHub 
-- a cheatsheet for a useful [workflow](https://github.com/ClaireGuerin/github-introduction/blob/main/gitmasterflow.pdf)
+- a documentation folder ([**doc**](https://github.com/ClaireGuerin/github-introduction/blob/main/doc/)) with:
+	- the course slides (`IntroductionToGitHub.pdf`)
+	- a cheatsheet for a useful workflow (`GitWorkFlow.pdf`)
 - a small R script that will print a random quote on your screen (`quote.R`).
 - a (more useful) small R script that will print essential git commands on your screen (`githelp.R`)
-- an image folder (img) with screenshots used in this README
+- an image folder (**img**) with screenshots used in this README
 
 ### Course Videos
 Access to the videos is restricted for privacy reasons. If you have been granted access to them, watch here: 
