@@ -15,7 +15,9 @@ This repository was created as part of an introductory course to git and GitHub.
 - an image folder (img) with screenshots used in this README
 
 ### Course Videos
-Access to the videos is restricted for privacy reasons. If you have been granted access to them, watch here: [Introduction to GitHub- Recordings](https://youtube.com/playlist?list=PLzPloYQHdelAAEvcPUTmZ1agIJM3687Il).
+Access to the videos is restricted for privacy reasons. If you have been granted access to them, watch here: 
+
+[Introduction to GitHub - Recordings](https://youtube.com/playlist?list=PLzPloYQHdelAAEvcPUTmZ1agIJM3687Il).
 
 ### Useful Links
 - [Command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
