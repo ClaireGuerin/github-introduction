@@ -18,3 +18,5 @@ say(what = "fortune",
     what_color = rgb(.1, .2, .3),
     by_color = sample(colors(), 5),
     type = "message")
+
+print("Hello Git!")
