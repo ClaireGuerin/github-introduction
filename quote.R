@@ -19,4 +19,4 @@ say(what = "fortune",
     by_color = sample(colors(), 5),
     type = "message")
 
-print("Hello Git!")
+print("... But only at the beginning!")
