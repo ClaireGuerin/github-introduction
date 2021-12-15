@@ -19,4 +19,4 @@ say(what = "fortune",
     by_color = sample(colors(), 5),
     type = "message")
 
-print("Git branches are a bit complicated")
+print("Git branches are a bit complicated... But only at the beginning!")
